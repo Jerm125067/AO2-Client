@@ -4208,7 +4208,6 @@ void Courtroom::on_change_character_clicked()
   set_char_select();
 
   ui_char_select_background->show();
-  ui_spectator->hide();
 }
 
 void Courtroom::on_reload_theme_clicked()
